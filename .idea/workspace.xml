@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afb31309-49b5-4514-ad37-d3ec140f8575" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndACOS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndADD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndADX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndADXR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndAPO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndAROON.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndAROONOSC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndATAN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndATR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndAVGPRICE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndBBANDS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndBOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCCI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCDL3BLACKCROWS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCDL3INSIDE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCDL3LINESTRIKE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCDL3OUTSIDE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCDLCROWS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCEIL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCMO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCOS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCOSH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndCUSTOM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndDEMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndDIV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndDX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndEMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndEXP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndFLOOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndHTDCPERIOD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndHTDCPHASE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndHTPHASOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndHTSINE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndHTTRENDLINE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndHTTRENDMODE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndKAMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMACD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMACDEXT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMACDFIX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMAMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMAVP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMAX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMAXINDEX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMFI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMIDPOINT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMIDPRICE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMININDEX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMINMAX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMINUSDI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMINUSDM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMOM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndMULTI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndPLUSDI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndPLUSDM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndPPO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndROC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndROC100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndROCP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndROCR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndRSI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSAR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSAREXT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSIN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSINH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSQRT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSTOCH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSTOCHF.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSTOCHRSI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSUB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndSUM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndT3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndTAN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndTANH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndTEMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndTRIMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndTRIX.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndULTOSC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndWILLR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndWMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/TechIndicator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indicators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TechIndFACTORY.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_technical_indicator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,32 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Indicators/TechIndADD.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/test_technical_indicator.py">
+        <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
-              <folding>
-                <element signature="e#57#75#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -153,6 +44,7 @@
         <option value="$PROJECT_DIR$/TechIndFACTORY.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/tests/test_technical_indicator.py" />
+        <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
   </component>
@@ -175,11 +67,6 @@
             <path>
               <item name="TechIndicators" type="b2602c69:ProjectViewProjectNode" />
               <item name="TechIndicators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TechIndicators" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TechIndicators" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -232,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551875394681</updated>
-      <workItem from="1551875396153" duration="956000" />
+      <workItem from="1551875396153" duration="1063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="956000" />
+    <option name="totallyTimeSpent" value="1063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="6" />
@@ -250,7 +137,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32911393" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32911393" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -315,13 +202,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Indicators/TechIndADD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Indicators/TechIndACOS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -359,6 +239,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_technical_indicator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="165" lean-forward="true" selection-start-line="165" selection-end-line="165" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -366,13 +256,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_technical_indicator.py">
+    <entry file="file://$PROJECT_DIR$/Indicators/TechIndADD.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="34" column="81" selection-start-line="34" selection-start-column="81" selection-end-line="34" selection-end-column="81" />
-          <folding>
-            <element signature="e#57#75#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -17,6 +17,4 @@ the factory list.
 
 ## AUTHORS
 
-Developed by [Rodrigo Cosme](https://github.com/rodrigosilvacosme), Agnello Hupp,
-[Andre Siviero](http://github.com/asiviero) and [Pedro Veronezi](https://github.com/pveroneziesa) from
-[ZeroBeta](http://www.zerobeta.com.br).
+Developed by [Pedro Veronezi](https://github.com/veronezipedro)
