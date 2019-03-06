@@ -5,7 +5,7 @@ wrapper for this package and a framework to custom indicators.
 
 ## Dependencies
 
-This library it is build on top of [TA-lib](https://mrjbq7.github.io/ta-lib/install.html), and leverages the python packages pandas and numpy.
+This library it is build on top of [TA-lib](https://mrjbq7.github.io/ta-lib/install.html), and leverages the python packages [pandas](https://pandas.pydata.org/pandas-docs/version/0.22/install.html) and [numpy](https://scipy.org/install.html).
 
 It is build on Python 2.7. If you want to develop for Python 3.x, we can start that together.
 
